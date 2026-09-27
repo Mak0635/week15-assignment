@@ -83,7 +83,7 @@ function App() {
         <p className="text-center text-gray-400 mt-8">タスクがありません</p>
       )}
     </main>
-  );
+);
 }
 
 export default App;
